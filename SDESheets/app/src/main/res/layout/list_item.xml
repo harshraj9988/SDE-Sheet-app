@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<TextView
+    android:id="@+id/problem_title_textview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="50dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="8dp"
+    android:textAppearance="?android:textAppearanceMedium"
+    android:gravity="center_vertical"
+    android:textStyle="normal"
+    tools:text="Testing"
+    />
+
+</LinearLayout>

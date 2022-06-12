@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/arrayFragment"
+            android:title="@string/array" />
+        <item
+            android:id="@+id/linkedListFragment"
+            android:title="@string/linked_list" />
+        <item
+            android:id="@+id/greedyAlgorithmFragment"
+            android:title="@string/greedy_algorithm" />
+        <item
+            android:id="@+id/recursionFragment"
+            android:title="@string/recursion" />
+        <item
+            android:id="@+id/backtrackingFragment"
+            android:title="@string/backtracking" />
+        <item
+            android:id="@+id/binarySearchFragment"
+            android:title="@string/binary_search" />
+        <item
+            android:id="@+id/heapFragment"
+            android:title="@string/heap" />
+        <item
+            android:id="@+id/stackQueueFragment"
+            android:title="@string/stack_queue" />
+        <item
+            android:id="@+id/stringFragment"
+            android:title="@string/string" />
+        <item
+            android:id="@+id/binaryTreeFragment"
+            android:title="@string/binary_tree" />
+        <item
+            android:id="@+id/graphFragment"
+            android:title="@string/graph" />
+        <item
+            android:id="@+id/dynamicProgrammingFragment"
+            android:title="@string/dynamic_programming" />
+        <item
+            android:id="@+id/trieFragment"
+            android:title="@string/trie" />
+    </group>
+</menu>

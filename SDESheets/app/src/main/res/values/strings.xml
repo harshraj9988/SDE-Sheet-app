@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SDE Sheet</string>
+    <string name="array">Array</string>
+    <string name="backtracking">Backtracking</string>
+    <string name="binary_search">Binary Search Tree</string>
+    <string name="binary_tree">Binary Tree</string>
+    <string name="dynamic_programming">Dynamic Programming</string>
+    <string name="graph">Graph</string>
+    <string name="greedy_algorithm">Greedy Algorithm</string>
+    <string name="heap">Heap</string>
+    <string name="linked_list">Linked List</string>
+    <string name="recursion">Recursion</string>
+    <string name="stack_queue">Stack and Queue</string>
+    <string name="string">String</string>
+    <string name="trie">Trie</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
